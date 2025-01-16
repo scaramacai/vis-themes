@@ -1,2 +1,5 @@
 # vis-themes
 My themes for the vis editor
+Here you can find some themes I created for the [vis editor](https://github.com/martanne/vis).
+I'm using st as terminal, hence hemes were tested there. Anyway, I didn't accurately check if hey can work with 16 or 256 colors or whatelse.
+Try yourself and fork and modify.
